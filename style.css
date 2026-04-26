@@ -385,6 +385,20 @@ article .icon {
   color: black;
   border-color: rgb(163, 163, 163);
 }
+.project-description {
+  margin: 0 1rem 1.5rem 1rem;
+  font-size: 0.95rem;
+  line-height: 1.5;
+  color: rgb(85, 85, 85);
+  text-align: center;
+}
+
+.project-img {
+  border-radius: 2rem;
+  width: 90%;
+  height: 220px;
+  object-fit: cover;
+}
 
 /* CONTACT */
 
