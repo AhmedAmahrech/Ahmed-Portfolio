@@ -375,7 +375,7 @@ article .icon {
   width: 100%;
   max-width: 260px;
   height: 160px;
-  object-fit: cover;
+  object-fit: contain;
   object-position: center;
   display: block;
   margin: 0 auto;
@@ -400,12 +400,7 @@ article .icon {
   text-align: center;
 }
 
-.project-img {
-  border-radius: 2rem;
-  width: 90%;
-  height: 220px;
-  object-fit: cover;
-}
+
 
 /* CONTACT */
 
